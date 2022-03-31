@@ -1,0 +1,3 @@
+Ejecutar migraciones
+	1.-Abrir consola
+	2.-
